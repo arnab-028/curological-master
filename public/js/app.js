@@ -115,8 +115,8 @@ console.log("Hello from app js");
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\monda\Downloads\realtime-pizza-master\realtime-pizza-master\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\monda\Downloads\realtime-pizza-master\realtime-pizza-master\resources\scss\app.scss */"./resources/scss/app.scss");
+__webpack_require__(/*! C:\Users\monda\OneDrive\Desktop\realtime-pizza-master\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\monda\OneDrive\Desktop\realtime-pizza-master\resources\scss\app.scss */"./resources/scss/app.scss");
 
 
 /***/ })
